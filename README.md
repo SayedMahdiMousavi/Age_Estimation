@@ -10,7 +10,7 @@ The dataset used in this project, which we trained the model with, is the UTKFac
 ## Block diagram
 The following figure is the block diagram of how our proposed model works:
 
-![bd](https://github.com/SayedMahdiMousavi/Age_Estimation/assets/56066734/18add50e-230a-44a8-9189-4afe81153a7f)
+![bd](https://github.com/SayedMahdiMousavi/Age_Estimation/assets/56066734/c0d20246-4431-4840-bc83-94bb6143ee94)
 
 In this project, we have used Pytrorch framework and torchvison library. The names and versions of other libraries are written in the requirements.txt file.
 
